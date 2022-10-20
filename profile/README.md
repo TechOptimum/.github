@@ -5,13 +5,13 @@ A non-profit organization with one goal - To help high school & college students
 
 ### Our Team
 - We are a team of high school students aspiring to impact future tech leader's futures
-- Interested in joining our team? Send an email to siddharthduggal@techoptimum.org
+- Interested in joining our team? Send an email to siddharthduggal2013@gmail.com
 - We are *always* looking for new team members :)
 
 ## Join 🚀
 Interested in joining our organization as a member? 
 - Join our <a href="https://discord.com/9C9rJtBv">Discord</a>
-- Register @ https://dashboard.techoptimum.org (will be finished in may).
+- Register @ https://dashboard.techoptimum.org
 
 ## Contribute 👌
 We are always welcoming new contributors & collaborators to our projects, simply open a PR.
