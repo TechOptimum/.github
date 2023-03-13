@@ -1,6 +1,12 @@
-# Welcome to Tech Optimum 💻
+<p align="center"><img width="300" alt="Tech Optimum Logo" src="https://www.techoptimum.org/logo-transparent.png"></p>
+<h1 align="center"><a href="https://techoptimum.org">Tech Optimum</a></h1>
 
-Tech Optimum is a non-profit organization with a singular focus: to provide guidance and support to high school and college students in their quest for a successful career in computer science. Our mission is to empower students with the knowledge and resources they need to succeed in this exciting and constantly evolving field.
+Welcome to Tech Optimum, a nonprofit organization dedicated to helping students in CS through courses, internships, talks and more. If you are interested in joining our communtiy, join [here](https://techoptimum.org/discord). If you would like to contribute to our repoositories or join Tech Optimum as a staff member, please go [here](https://techoptimum.org/join-team).
+
+
+
+## Mission
+More than one-third of the world's population especially students continues to be excluded from technology because of the digital divide. We offer students in need accessible resources, tools, and a learning platform along with an inclusive community to learn more about their passion. We envision a diverse community that strives for inclusion in the technology industry.
 
 ## Meet Our Team
 Our team is composed of highly motivated and accomplished high school students who are deeply committed to making a positive impact in the lives of future tech leaders. We are a diverse and inclusive community of learners, innovators, and collaborators, united by a common goal of building a better future for all.
