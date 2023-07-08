@@ -1,24 +1,23 @@
 <p align="center"><img width="300" alt="Tech Optimum Logo" src="https://www.techoptimum.org/logo-transparent.png"></p>
 <h1 align="center"><a href="https://techoptimum.org">Tech Optimum</a></h1>
 
-Welcome to Tech Optimum, a nonprofit organization dedicated to helping students in CS through courses, internships, talks and more. If you are interested in joining our communtiy, join [here](https://techoptimum.org/discord). If you would like to contribute to our repoositories or join Tech Optimum as a staff member, please go [here](https://techoptimum.org/join-team).
+Welcome to Tech Optimum! We are a nonprofit organization committed to supporting students in Computer Science (CS) through our free high-quality coding courses, accessible internships, talks, and much more. Join our [community](https://techoptimum.org/discord), or explore opportunities to contribute to our repositories or join us as a [staff member](https://techoptimum.org/join-team).
 
+## Our Courses 🎓
 
+At Tech Optimum, we believe in making quality education accessible to all. Our [free coding courses](https://dashboard.techoptimum.org) cater to various levels of proficiency and are designed to equip you with the skills necessary to excel in the tech world. Explore our course dashboard today to begin your learning journey.
 
-## Mission
-More than one-third of the world's population especially students continues to be excluded from technology because of the digital divide. We offer students in need accessible resources, tools, and a learning platform along with an inclusive community to learn more about their passion. We envision a diverse community that strives for inclusion in the technology industry.
+## Internships 💼
 
-## Meet Our Team
-Our team is composed of highly motivated and accomplished high school students who are deeply committed to making a positive impact in the lives of future tech leaders. We are a diverse and inclusive community of learners, innovators, and collaborators, united by a common goal of building a better future for all.
+We understand the importance of real-world experience in shaping your career. Our [accessible internships](https://github.com/TechOptimum/2024-swe-internships) aim to provide students the opportunity to apply their learned skills in a practical environment. Check out our GitHub repository to find your next summer software engineering internship for 2024.
 
-If you are interested in joining our team, we invite you to reach out to us via email at team@techoptimum.org or visit our website at https://techoptimum.org/join-team to learn more about our selection process.
+## Our Mission 🌍
+
+We aim to bridge the digital divide by offering accessible resources, tools, and a learning platform to students in need. Our vision is a diverse and inclusive tech community striving for universal access to technology education.
+
 
 ## Join Our Community 🚀
-Whether you are a student, a professional, or simply interested in computer science, we welcome you to join our thriving and dynamic Discord community. Here, you can engage in lively discussions, share your experiences and insights, and stay up-to-date with the latest trends and developments in the field.
 
-To become a member of our community, simply click on the following link: <a href="https://discord.com/9C9rJtBv">Join Our Discord</a>. We look forward to connecting with you!
+Be a part of our dynamic Discord community where you can share experiences, insights, and keep up-to-date with the latest tech trends. [Join us today](https://discord.com/9C9rJtBv)!
 
-## Get Involved 👌
-At Tech Optimum, we are always seeking talented and motivated individuals to contribute to our projects and initiatives. Whether you are an experienced developer, a budding entrepreneur, or simply passionate about making a difference, we welcome your contributions.
 
-To get started, simply open a pull request on our GitHub repository or reach out to us on Discord. We appreciate any help you can offer and look forward to working with you to advance our mission of promoting excellence and innovation in computer science education.
